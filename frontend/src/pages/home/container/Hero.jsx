@@ -11,8 +11,7 @@ const Hero = () => {
           Read the most interesting articles
         </h1>
         <p className="text-dark-light mt-4 text-center md:text-xl lg:text-base xl:text-xl lg:text-left">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua
+        Welcome to our vibrant hub of insightful and engaging articles! Our website is a treasure trove of knowledge, brimming with thought-provoking pieces penned by passionate writers from around the globe. 
         </p>
         <div className="flex flex-col gap-y-2.5 mt-10 lg:mt-6 xl:mt-10 relative">
           <div className="relative">
